@@ -2,7 +2,7 @@
 
 A generative typographic art experiment in Python that renders a heart silhouette composed of "I love you" in 20 different languages, featuring smooth floating animations and a subtle shimmering effect.
 
-<img width="1302" height="752" alt="WhatsApp Image 2026-10-09 at 09 53 02" src="https://github.com/user-attachments/assets/6c2ccffe-f46d-4b2f-9430-36a6a5739beb" />
+<img width="1580" height="1078" alt="Image" src="https://github.com/user-attachments/assets/be0749e3-f61a-42ef-8307-3254fbfd5315" />
 
 
 ## Features
